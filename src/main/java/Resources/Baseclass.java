@@ -6,7 +6,7 @@ import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//some chnages need to be done for git only
 public class Baseclass {
 	public WebDriver driver;
 	
